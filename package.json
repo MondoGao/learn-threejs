@@ -1,0 +1,19 @@
+{
+  "name": "learn-threejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MondoGao/learn-threejs.git",
+  "author": "Mondo <mondogao@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "^1.5.1",
+    "three": "^0.90.0"
+  },
+  "devDependencies": {
+    "@types/dat-gui": "^0.6.3",
+    "@types/three": "^0.89.10",
+    "babel-preset-env": "^1.6.1",
+    "dat.gui": "^0.7.0",
+    "typescript": "^2.7.1"
+  }
+}
